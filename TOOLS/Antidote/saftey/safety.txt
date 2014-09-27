@@ -1,0 +1,1 @@
+This is simply a dummy file that start.bat on the switchblade looks for. If this file is found at the location "C:\safety.txt" the switchblade will not run.
